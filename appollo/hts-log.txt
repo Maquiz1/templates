@@ -1,0 +1,21 @@
+HTTrack3.49-2 launched on Sat, 29 Mar 2025 04:08:16 at https://www.bootstrapget.com/demos/apollo-medical-admin-template/
+(httrack https://www.bootstrapget.com/demos/apollo-medical-admin-template/ -O /home/maquiz/appollo )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+04:15:43	Warning: 	Retry after error -4 (Incorrect length (479919 Bytes, 972709 expected)) at link https://www.bootstrapget.com/demos/apollo-medical-admin-template/assets/images/lungs.png (from https://www.bootstrapget.com/demos/apollo-medical-admin-template/)
+04:15:43	Error: 	"Not Found" (404) at link https://www.bootstrapget.com/demos/apollo-medical-admin-template/assets/fonts/remix/remixicon.svg?t=1705244689813 (from https://www.bootstrapget.com/demos/apollo-medical-admin-template/assets/fonts/remix/remixicon.css)
+04:15:43	Error: 	"Not Found" (404) at link https://www.bootstrapget.com/demos/apollo-medical-admin-template/! (from https://www.bootstrapget.com/demos/apollo-medical-admin-template/doc-appointments.html)
+04:15:43	Error: 	"Not Found" (404) at link https://www.bootstrapget.com/demos/apollo-medical-admin-template/doctors-list.html (from https://www.bootstrapget.com/demos/apollo-medical-admin-template/add-doctors.html)
+04:15:43	Error: 	"Not Found" (404) at link https://www.bootstrapget.com/demos/apollo-medical-admin-template/invoice-list.html (from https://www.bootstrapget.com/demos/apollo-medical-admin-template/create-invoice.html)
+04:15:44	Error: 	"Not Found" (404) at link https://www.bootstrapget.com/demos/apollo-medical-admin-template/assets/images/thumbs/4.jpg (from https://www.bootstrapget.com/demos/apollo-medical-admin-template/tabs.html)
+04:15:44	Error: 	"Not Found" (404) at link https://www.bootstrapget.com/demos/apollo-medical-admin-template/assets/images/thumbs/8.jpg (from https://www.bootstrapget.com/demos/apollo-medical-admin-template/tabs.html)
+04:15:44	Error: 	"Not Found" (404) at link https://www.bootstrapget.com/demos/apollo-medical-admin-template/assets/images/thumbs/3.jpg (from https://www.bootstrapget.com/demos/apollo-medical-admin-template/tabs.html)
+04:15:44	Error: 	"Not Found" (404) at link https://www.bootstrapget.com/demos/apollo-medical-admin-template/assets/images/thumbs/2.jpg (from https://www.bootstrapget.com/demos/apollo-medical-admin-template/tabs.html)
+04:15:44	Error: 	"Not Found" (404) at link https://www.bootstrapget.com/demos/apollo-medical-admin-template/assets/images/thumbs/5.jpg (from https://www.bootstrapget.com/demos/apollo-medical-admin-template/tabs.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 30 seconds : 312 links scanned, 301 files written (16027178 bytes overall) [7429496 bytes received at 16509 bytes/sec], 11120673 bytes transferred using HTTP compression in 216 files, ratio 21%, 12.4 requests per connection
+(9 errors, 1 warnings, 0 messages)

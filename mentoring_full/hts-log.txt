@@ -1,0 +1,17 @@
+HTTrack3.49-2 launched on Sat, 29 Mar 2025 05:06:58 at https://mentoring.dreamstechnologies.com/html/template/
+(httrack https://mentoring.dreamstechnologies.com/html/template/ -O /home/maquiz/New_Templates/mentoring_full )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+05:14:55	Error: 	"Not Found" (404) at link https://mentoring.dreamstechnologies.com/html/template/assets/css/owl.video.play.png (from https://mentoring.dreamstechnologies.com/html/template/assets/css/owl.carousel.min.css)
+05:14:55	Error: 	"Not Found" (404) at link https://mentoring.dreamstechnologies.com/html/template/assets/plugins/feather/fonts/feather-webfont.eot?t=1501841394106 (from https://mentoring.dreamstechnologies.com/html/template/assets/plugins/feather/feather.css)
+05:14:55	Error: 	"Not Found" (404) at link https://mentoring.dreamstechnologies.com/html/template/assets/plugins/feather/fonts/feather-webfont.ttf?t=1501841394106 (from https://mentoring.dreamstechnologies.com/html/template/assets/plugins/feather/feather.css)
+05:14:55	Error: 	"Not Found" (404) at link https://mentoring.dreamstechnologies.com/html/template/assets/plugins/feather/fonts/feather-webfont.svg?t=1501841394106 (from https://mentoring.dreamstechnologies.com/html/template/assets/plugins/feather/feather.css)
+05:14:55	Error: 	"Not Found" (404) at link https://mentoring.dreamstechnologies.com/html/template/profile-mentee (from https://mentoring.dreamstechnologies.com/html/template/mentee-list.html)
+05:16:20	Error: 	"Not Found" (404) at link https://mentoring.dreamstechnologies.com/html/template/admin/assets/img/github.svg (from https://mentoring.dreamstechnologies.com/html/template/admin/assets/css/ckeditor.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 22 seconds : 552 links scanned, 545 files written (18335876 bytes overall) [11551559 bytes received at 20554 bytes/sec], 9766665 bytes transferred using HTTP compression in 250 files, ratio 26%, 42.4 requests per connection
+(6 errors, 0 warnings, 0 messages)

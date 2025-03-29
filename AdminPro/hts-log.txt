@@ -1,0 +1,11 @@
+HTTrack3.49-2 launched on Sat, 29 Mar 2025 05:20:56 at https://bootstrapget.com/demos/adminpro-bootstrap-admin-template/
+(httrack https://bootstrapget.com/demos/adminpro-bootstrap-admin-template/ -O /home/maquiz/New_Templates/AdminPro )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 28 seconds : 203 links scanned, 202 files written (10331345 bytes overall) [5065402 bytes received at 24352 bytes/sec], 7362870 bytes transferred using HTTP compression in 155 files, ratio 27%, 18.4 requests per connection
+(No errors, 0 warnings, 0 messages)

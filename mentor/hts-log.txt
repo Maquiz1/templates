@@ -1,0 +1,17 @@
+HTTrack3.49-2 launched on Sat, 29 Mar 2025 04:38:21 at https://themes.potenzaglobalsolutions.com/html/mentor-bootstrap-4-admin-dashboard-template/
+(httrack https://themes.potenzaglobalsolutions.com/html/mentor-bootstrap-4-admin-dashboard-template/ -O /home/maquiz/mentor )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+04:42:13	Error: 	"Not Found" (404) at link https://themes.potenzaglobalsolutions.com/html/mentor-bootstrap-4-admin-dashboard-template/assets/css/mCSB_buttons.png (from https://themes.potenzaglobalsolutions.com/html/mentor-bootstrap-4-admin-dashboard-template/assets/css/vendors.css)
+04:42:13	Error: 	"Not Found" (404) at link https://themes.potenzaglobalsolutions.com/html/mentor-bootstrap-4-admin-dashboard-template/assets/css/owl.video.play.png (from https://themes.potenzaglobalsolutions.com/html/mentor-bootstrap-4-admin-dashboard-template/assets/css/vendors.css)
+04:42:13	Error: 	"Not Found" (404) at link https://themes.potenzaglobalsolutions.com/html/mentor-bootstrap-4-admin-dashboard-template/assets/img/marker/red.png (from https://themes.potenzaglobalsolutions.com/html/mentor-bootstrap-4-admin-dashboard-template/assets/css/style.css)
+04:42:13	Error: 	"Not Found" (404) at link https://themes.potenzaglobalsolutions.com/html/mentor-bootstrap-4-admin-dashboard-template/assets/img/marker/blue.png (from https://themes.potenzaglobalsolutions.com/html/mentor-bootstrap-4-admin-dashboard-template/assets/css/style.css)
+04:42:13	Error: 	"Not Found" (404) at link https://themes.potenzaglobalsolutions.com/html/mentor-bootstrap-4-admin-dashboard-template/assets/img/marker/purple.png (from https://themes.potenzaglobalsolutions.com/html/mentor-bootstrap-4-admin-dashboard-template/assets/css/style.css)
+04:42:13	Error: 	"Not Found" (404) at link https://themes.potenzaglobalsolutions.com/html/mentor-bootstrap-4-admin-dashboard-template/assets/img/widget/010.jpg (from https://themes.potenzaglobalsolutions.com/html/mentor-bootstrap-4-admin-dashboard-template/ui-lightbox.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 52 seconds : 232 links scanned, 225 files written (21792671 bytes overall) [15106142 bytes received at 65112 bytes/sec], 7482762 bytes transferred using HTTP compression in 97 files, ratio 9%, 38.6 requests per connection
+(6 errors, 0 warnings, 0 messages)
