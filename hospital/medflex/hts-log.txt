@@ -1,0 +1,18 @@
+HTTrack3.49-2 launched on Sat, 29 Mar 2025 19:10:29 at https://bootstrapget.com/demos/medflex-medical-admin-template/
+(httrack https://bootstrapget.com/demos/medflex-medical-admin-template/ -O /home/maquiz/New_Templates/medflex )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:16:19	Error: 	"Not Found" (404) at link https://bootstrapget.com/demos/medflex-medical-admin-template/assets/fonts/remix/remixicon.svg?t=1705244689813 (from https://bootstrapget.com/demos/medflex-medical-admin-template/assets/fonts/remix/remixicon.css)
+19:16:19	Error: 	"Not Found" (404) at link https://bootstrapget.com/demos/medflex-medical-admin-template/invoice-list.html (from https://bootstrapget.com/demos/medflex-medical-admin-template/create-invoice.html)
+19:16:22	Error: 	"Not Found" (404) at link https://bootstrapget.com/demos/medflex-medical-admin-template/assets/images/thumbs/4.jpg (from https://bootstrapget.com/demos/medflex-medical-admin-template/tabs.html)
+19:16:22	Error: 	"Not Found" (404) at link https://bootstrapget.com/demos/medflex-medical-admin-template/assets/images/thumbs/8.jpg (from https://bootstrapget.com/demos/medflex-medical-admin-template/tabs.html)
+19:16:22	Error: 	"Not Found" (404) at link https://bootstrapget.com/demos/medflex-medical-admin-template/assets/images/thumbs/3.jpg (from https://bootstrapget.com/demos/medflex-medical-admin-template/tabs.html)
+19:16:22	Error: 	"Not Found" (404) at link https://bootstrapget.com/demos/medflex-medical-admin-template/assets/images/thumbs/2.jpg (from https://bootstrapget.com/demos/medflex-medical-admin-template/tabs.html)
+19:16:22	Error: 	"Not Found" (404) at link https://bootstrapget.com/demos/medflex-medical-admin-template/assets/images/thumbs/5.jpg (from https://bootstrapget.com/demos/medflex-medical-admin-template/tabs.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 53 seconds : 285 links scanned, 277 files written (14339299 bytes overall) [6586875 bytes received at 18659 bytes/sec], 10189168 bytes transferred using HTTP compression in 212 files, ratio 23%, 15.0 requests per connection
+(7 errors, 0 warnings, 0 messages)
