@@ -1,0 +1,12 @@
+HTTrack3.49-2 launched on Fri, 21 Mar 2025 12:01:12 at https://dashlite.net/demo7/pharmacy/
+(httrack https://dashlite.net/demo7/pharmacy/ -O /home/maquiz/templates/pharmacy )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:02:01	Error: 	"Not Found" (404) at link https://dashlite.net/demo7/pharmacy/Members-profile-regular.html (from https://dashlite.net/demo7/pharmacy/member.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 49 seconds : 38 links scanned, 36 files written (2585646 bytes overall) [468131 bytes received at 9553 bytes/sec], 2586854 bytes transferred using HTTP compression in 38 files, ratio 17%, 7.6 requests per connection
+(1 errors, 0 warnings, 0 messages)
