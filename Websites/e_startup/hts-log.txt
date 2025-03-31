@@ -1,0 +1,12 @@
+HTTrack3.49-2 launched on Mon, 31 Mar 2025 09:21:13 at https://bootstrapmade.com/demo/eStartup/
+(httrack https://bootstrapmade.com/demo/eStartup/ -O /home/maquiz/New_Templates/e_startup )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:21:15	Warning: 	Link https://bootstrapmade.com/demo/eStartup/ not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 seconds : 2 links scanned, 1 files written (3835 bytes overall) [3554 bytes received at 1777 bytes/sec], 3899 bytes transferred using HTTP compression in 2 files, ratio 35%
+(No errors, 1 warnings, 0 messages)

@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+09:32:34	110/110	---M--	200	added ('OK')	text/plain	date:Mon,%2031%20Mar%202025%2006:32:34%20GMT	https://app.clockify.me/robots.txt		(from )
+09:32:34	14380/14380	---MCZ	200	added ('OK')	text/html	etag:%22d8rqmd8t3i80b3g-gzip%22	https://app.clockify.me/tracker/	/home/maquiz/New_Templates/timesheet/app.clockify.me/tracker/index.html	(from )
