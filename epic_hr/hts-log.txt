@@ -1,0 +1,13 @@
+HTTrack3.49-2 launched on Sun, 30 Mar 2025 20:43:45 at https://preview.themeforest.net/item/epic-react-hr-management-admin-template/full_screen_preview/27418832?_ga=2.74812178.1828875608.1743349525-1407585715.1741631771&_gac=1.16719556.1743349525.Cj0KCQjw16O_BhDNARIsAC3i2GA-csfw4EyNPij9SfzknRO_GXyOl6nvShu5CFA2lp-YFwoPte20zesaAi0ZEALw_wcB/
+(httrack https://preview.themeforest.net/item/epic-react-hr-management-admin-template/full_screen_preview/27418832?_ga=2.74812178.1828875608.1743349525-1407585715.1741631771&_gac=1.16719556.1743349525.Cj0KCQjw16O_BhDNARIsAC3i2GA-csfw4EyNPij9SfzknRO_GXyOl6nvShu5CFA2lp-YFwoPte20zesaAi0ZEALw_wcB/ -O /home/maquiz/New_Templates/epic_hr )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:43:49	Warning: 	Link https://preview.themeforest.net/item/epic-react-hr-management-admin-template/full_screen_preview/27418832?_ga=2.74812178.1828875608.1743349525-1407585715.1741631771&_gac=1.16719556.1743349525.Cj0KCQjw16O_BhDNARIsAC3i2GA-csfw4EyNPij9SfzknRO_GXyOl6nvShu5CFA2lp-YFwoPte20zesaAi0ZEALw_wcB not scanned (follow robots meta tag)
+20:43:49	Error: 	"Gone" (410) at link https://preview.themeforest.net/item/epic-react-hr-management-admin-template/full_screen_preview/&quot;https://www.puffintheme.com/assets/images/extended-offer-2023.png&quot; (from https://preview.themeforest.net/item/epic-react-hr-management-admin-template/full_screen_preview/27418832?_ga=2.74812178.1828875608.1743349525-1407585715.1741631771&_gac=1.16719556.1743349525.Cj0KCQjw16O_BhDNARIsAC3i2GA-csfw4EyNPij9SfzknRO_GXyOl6nvShu5CFA2lp-YFwoPte20zesaAi0ZEALw_wcB)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 seconds : 3 links scanned, 1 files written (16139 bytes overall) [9469 bytes received at 2367 bytes/sec], 16186 bytes transferred using HTTP compression in 2 files, ratio 35%, 2.0 requests per connection
+(1 errors, 1 warnings, 0 messages)

@@ -1,0 +1,14 @@
+HTTrack3.49-2 launched on Sun, 30 Mar 2025 19:25:25 at https://einfosoft.com/templates/admin/kuber/source/light/#/admin/dashboard/main/
+(httrack https://einfosoft.com/templates/admin/kuber/source/light/#/admin/dashboard/main/ -O /home/maquiz/New_Templates/hr_management )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:25:28	Error: 	"Forbidden" (403) at link https://einfosoft.com/templates/admin/kuber/source/light/ (from primary/primary)
+19:25:28	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/robots.txt (from primary/primary)
+19:25:28	Warning: 	Retry after error -5 (Unable to get server's address: Temporary failure in name resolution) at link primary/admin/dashboard/main/ (from primary/primary)
+19:25:28	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/admin/dashboard/main/ (from primary/primary)
+19:25:28	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/admin/dashboard/main/ (from primary/primary)
+19:25:28	Warning: 	No data seems to have been transferred during this session! : restoring previous one!

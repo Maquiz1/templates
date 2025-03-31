@@ -1,0 +1,11 @@
+HTTrack3.49-2 launched on Sun, 30 Mar 2025 19:04:24 at https://startbootstrap.com/previews/business-frontpage
+(httrack https://startbootstrap.com/previews/business-frontpage -O /home/maquiz/New_Templates/business_front_page )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 seconds : 2 links scanned, 1 files written (13509 bytes overall) [6123 bytes received at 3061 bytes/sec], 13593 bytes transferred using HTTP compression in 2 files, ratio 29%
+(No errors, 0 warnings, 0 messages)

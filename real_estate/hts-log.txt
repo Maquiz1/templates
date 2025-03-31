@@ -1,0 +1,11 @@
+HTTrack3.49-2 launched on Sun, 30 Mar 2025 19:16:08 at https://techzaa.in/oreal/
+(httrack https://techzaa.in/oreal/ -O /home/maquiz/New_Templates/real_estate )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 14 seconds : 230 links scanned, 229 files written (42412692 bytes overall) [29830941 bytes received at 117444 bytes/sec], 14615029 bytes transferred using HTTP compression in 160 files, ratio 13%, 8.2 requests per connection
+(No errors, 0 warnings, 0 messages)
